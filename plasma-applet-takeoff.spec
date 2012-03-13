@@ -1,9 +1,9 @@
 %define		oname	takeoff
 
 Name:		plasma-applet-takeoff
-Summary:	A full screen menu inpired by Slingshot and the OS X Launchpad menu
+Summary:	A full screen menu inspired by Slingshot and the OS X Launchpad menu
 Version:	1.0.1
-Release:	%mkrel 1
+Release:	%mkrel 2
 Group:		Graphical desktop/KDE
 License:	GPLv3+
 URL:		https://code.google.com/p/takeoff-launcher/
@@ -14,7 +14,7 @@ BuildRequires:	kdelibs4-devel
 Requires:	kdebase4-runtime
 
 %description
-Takeoff is a full screen menu inpired in the aspect of Slingshot and
+Takeoff is a full screen menu inspired in the aspect of Slingshot and
 the OS X Launchpad menu but adapted to the KDE users in a plasmoid.
 
 %prep
