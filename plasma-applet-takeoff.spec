@@ -37,3 +37,14 @@ the OS X Launchpad menu but adapted to the KDE users in a plasmoid.
 %{_kde_libdir}/kde4/plasma_applet_%{oname}.so
 %{_kde_services}/plasma-applet-%{oname}.desktop
 
+
+
+%changelog
+* Tue Mar 13 2012 Andrey Bondrov <abondrov@mandriva.org> 1.0.1-2mdv2011.0
++ Revision: 784577
+- Fix typo in summary and description
+
+* Tue Mar 13 2012 Andrey Bondrov <abondrov@mandriva.org> 1.0.1-1
++ Revision: 784570
+- imported package plasma-applet-takeoff
+
